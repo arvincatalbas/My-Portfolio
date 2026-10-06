@@ -1,5 +1,5 @@
 import heroImage from '../assets/Arvin.png'
-import cvDownload from '../assets/resume/Arvin_Catalbas.pdf'
+import cvDownload from '../assets/resume/Arvin Catalbas (1).pdf'
 
 function Home() {
     return (
