@@ -122,15 +122,15 @@ my-portfolio-web-app/
 
 ## 🛠️ Technology Stack
 
-| Category | Technology | Usage |
-| :--- | :--- | :--- |
-| **Frontend Library** | React 19 (`^19.2.8`) | Core UI library & component-driven view layer |
-| **DOM Renderer** | React DOM (`^19.2.8`) | React entry rendering to HTML root container |
-| **Build Tool & Server** | Vite 8 (`^8.2.2`) | Development server with instant HMR & production bundler |
-| **Plugin Architecture** | `@vitejs/plugin-react` | Official Fast Refresh React plugin for Vite |
-| **Code Quality / Linter** | Oxlint (`^1.79.0`) | High-speed JavaScript & JSX code linter |
-| **Styling** | Modern CSS3 | Custom CSS variables, responsive Grid/Flex layouts |
-| **Icons & Media** | SVG & Optimized Raster | Scalable vector graphics and image assets |
+| Category                        | Technology               | Usage                                                    |
+| :------------------------------ | :----------------------- | :------------------------------------------------------- |
+| **Frontend Library**      | React 19 (`^19.2.8`)   | Core UI library & component-driven view layer            |
+| **DOM Renderer**          | React DOM (`^19.2.8`)  | React entry rendering to HTML root container             |
+| **Build Tool & Server**   | Vite 8 (`^8.2.2`)      | Development server with instant HMR & production bundler |
+| **Plugin Architecture**   | `@vitejs/plugin-react` | Official Fast Refresh React plugin for Vite              |
+| **Code Quality / Linter** | Oxlint (`^1.79.0`)     | High-speed JavaScript & JSX code linter                  |
+| **Styling**               | Modern CSS3              | Custom CSS variables, responsive Grid/Flex layouts       |
+| **Icons & Media**         | SVG & Optimized Raster   | Scalable vector graphics and image assets                |
 
 ---
 
@@ -213,4 +213,4 @@ This project is open-source and available under the standard MIT license.
 
 ## 🌐 Visit My Portfolio Web App
 
-https://my-portfolio-three-coral-77.vercel.app/
+[my-portfolio-kappa-three-20.vercel.app](https://my-portfolio-kappa-three-20.vercel.app/)
