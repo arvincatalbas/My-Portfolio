@@ -213,4 +213,4 @@ This project is open-source and available under the standard MIT license.
 
 ## 🌐 Visit My Portfolio Web App
 
-[my-portfolio-kappa-three-20.vercel.app](https://my-portfolio-kappa-three-20.vercel.app/)
+https://my-portfolio-blue-ten-hdhotneb6b.vercel.app/
