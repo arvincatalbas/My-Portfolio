@@ -26,7 +26,7 @@ export const highlights = [
             </svg>
         ),
         title: 'Software & Web Dev',
-        description: 'Building modern, clean, and responsive web applications using React, JavaScript, HTML/CSS, and scalable frontend architectures.'
+        description: 'Building modern, clean, and responsive web applications using React, JavaScript, HTML/CSS, and scalable frontend architectures and Laravel(PHP) for Backend Framework.'
     },
     {
         icon: (
