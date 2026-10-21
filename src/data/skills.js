@@ -4,14 +4,16 @@ const skills = [
         technologies: [
             'HTML',
             'CSS',
-            'JavaScript'
+            'JavaScript',
+            'TypeScript'
         ]
     },
     {
         category: 'Backend',
         technologies: [
             'JavaScript(Node.JS)',
-            'PHP'
+            'PHP',
+            'TypeScript'
         ]
     },
     {
@@ -26,7 +28,7 @@ const skills = [
         technologies: [
             'ReactJS',
             'React Native',
-            'TypeScript',
+            'Vue',
             'Laravel'
         ]
     },
