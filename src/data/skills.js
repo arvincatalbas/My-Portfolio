@@ -29,7 +29,8 @@ const skills = [
             'ReactJS',
             'React Native',
             'Vue',
-            'Laravel'
+            'Laravel',
+            'Bootstrap'
         ]
     },
     {
