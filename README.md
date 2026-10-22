@@ -2,6 +2,8 @@
 
 A modern, responsive, and high-performance personal portfolio web application built with **React 19**, **Vite**, and **CSS3**. Designed specifically for showcasing Information Technology projects, certifications, technical skill sets, and professional experience with a slick dark/light theme switcher and interactive components.
 
+- ** https://my-portfolio-seven-phi-26.vercel.app/
+
 ---
 
 ## 🚀 Key Features
@@ -210,7 +212,3 @@ npm run lint
 ## 📄 License
 
 This project is open-source and available under the standard MIT license.
-
-## 🌐 Visit My Portfolio Web App
-
-https://my-portfolio-web-app-roan.vercel.app/
