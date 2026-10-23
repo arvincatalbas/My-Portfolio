@@ -1,5 +1,5 @@
 import './App.css'
-import Home from './routes/Home'
+import Home from './pages/Home'
 import About from './pages/about'
 import Skills from './pages/skills'
 import Projects from './pages/project'
