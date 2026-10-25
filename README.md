@@ -2,7 +2,7 @@
 
 A modern, responsive, and high-performance personal portfolio web application built with **React 19**, **Vite**, and **CSS3**. Designed specifically for showcasing Information Technology projects, certifications, technical skill sets, and professional experience with a slick dark/light theme switcher and interactive components.
 
-- https://my-portfolio-azure-zeta-45.vercel.app/
+- https://my-portfolio-eta-mauve-77.vercel.app/#certifications
 
 ---
 
