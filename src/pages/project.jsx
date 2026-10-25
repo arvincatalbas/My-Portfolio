@@ -23,6 +23,33 @@ function Projects() {
                                     ))}
                                 </div>
 
+                                {/* Project Links */}
+                                <div className="project-links">
+                                    {project.githubUrl && (
+                                        <a
+                                            href={project.githubUrl}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="project-btn github-btn"
+                                        >
+                                            <i className="fa-brands fa-github"></i>
+                                            GitHub Repository
+                                        </a>
+                                    )}
+
+                                    {project.liveUrl && (
+                                        <a
+                                            href={project.liveUrl}
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                            className="project-btn demo-btn"
+                                        >
+                                            <i className="fa-solid fa-arrow-up-right-from-square"></i>
+                                            Live Demo
+                                        </a>
+                                    )}
+                                </div>
+
                             </div>
                         </article>
                     ))}
