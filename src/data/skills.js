@@ -51,8 +51,23 @@ const skills = [
             'Bootable Media Creation using Rufus',
             'Software Installation',
             'Git & GitHub'
-        ]
+        ],
+    },
+    {
+        category: 'Software Tools',
+        technologies: [
+            'figma',
+            'Canva',
+            'Adobe Photoshop'
+        ],
+    },
+    {
+        category: 'Microsoft Office',
+        technologies: [
+            'Excel',
+            'Microsoft Word'
+        ],
     }
-]
+];
 
 export default skills
