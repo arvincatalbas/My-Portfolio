@@ -1258,6 +1258,10 @@ body {
         justify-content: center;
     }
 
+    .cv-buttons {
+        justify-content: center;
+    }
+
     .about-main-card {
         grid-template-columns: 1fr;
     }
@@ -1295,6 +1299,12 @@ body {
 
     .hero-buttons {
         flex-direction: column;
+        align-items: center;
+    }
+
+    .hero-buttons .btn,
+    .cv-buttons .btn-cv {
+        width: min(100%, 280px);
     }
 
     .profile-container {
