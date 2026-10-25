@@ -1007,16 +1007,6 @@ body {
     transform: translateY(-3px);
 }
 
-.demo-btn {
-    background: #2563eb;
-    color: #ffffff;
-}
-
-.demo-btn:hover {
-    background: #1d4ed8;
-    transform: translateY(-3px);
-}
-
 .project-btn i {
     font-size: 17px;
 }

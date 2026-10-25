@@ -6,7 +6,6 @@ const projects = [
         technologies: ['React', 'Vite', 'CSS3', 'JavaScript'],
         link: '#',
         githubUrl: "https://github.com/arvincatalbas/My-Portfolio",
-        liveUrl: "https://github.com/arvincatalbas/My-Portfolio"
     },
     {
         id: 2,
@@ -15,7 +14,6 @@ const projects = [
         technologies: ['PHP', 'JavaScript', 'HTML & CSS', 'Bootstrap'],
         link: '#',
         githubUrl: "https://github.com/arvincatalbas/Vet_Information_Systems---Copy",
-        liveUrl: "https://github.com/arvincatalbas/Vet_Information_Systems---Copy"
     },
     {
         id: 3,
@@ -24,7 +22,6 @@ const projects = [
         technologies: ['React Native', 'Expo', 'TypeScript', 'JavaScript'],
         link: '#',
         githubUrl: "https://github.com/arvincatalbas/music_app",
-        liveUrl: "https://github.com/arvincatalbas/music_app"
     },
     {
         id: 4,
@@ -33,7 +30,6 @@ const projects = [
         technologies: ['React Native', 'Expo', 'TypeScript', 'JavaScript'],
         link: '#',
         githubUrl: "https://github.com/arvincatalbas/notes-app",
-        liveUrl: "https://github.com/arvincatalbas/notes-app"
     },
     {
         id: 5,
@@ -42,7 +38,6 @@ const projects = [
         technologies: ['React Native', 'Expo', 'TypeScript', 'JavaScript'],
         link: '#',
         githubUrl: "https://github.com/arvincatalbas/stopwatch-app",
-        liveUrl: "https://github.com/arvincatalbas/stopwatch-app"
     }
 ]
 
